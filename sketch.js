@@ -115,10 +115,9 @@ function draw(){
 			window.location.assign("video.html");
 		}
 		else if (objHolder[7].mouseIsPressed == true){
-			window.location.assign("documentation.html");
+			window.location.assign("https://medium.com/@jiuzhua9/project-1-project-2-documentations-87864245269c");
 		}
 	}
-
 }
 
 function changeGray(){
