@@ -1,0 +1,20 @@
+body{
+	background-color: black;
+		font-family: 'Roboto Mono', monospace;
+}
+
+#video{
+	width:100vw;
+	height: 100vh;
+	background-color: black;
+	overflow: hidden;
+	margin-top: 20%;
+}
+
+button{
+	margin-top:40px;
+	font-size: 20px;
+	font-family: 'Roboto Mono';
+	background-color: black;
+	color: white;
+}
